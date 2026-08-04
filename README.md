@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shwetha 👋</h1>
 
 <p align="center">
-<strong>Senior Data Scientist · Toronto, ON 🇨🇦 (relocating to Texas)</strong><br/>
+<strong>Senior Data Scientist · Toronto, ON 🇨🇦</strong><br/>
 Causal Inference · Predictive Modeling · Applied GenAI · LLM Agents
 </p>
 

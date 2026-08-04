@@ -19,7 +19,7 @@ I translate messy funnel, experiment, and unstructured data into decisions leade
 
 Senior Data Scientist with 8+ years building predictive models, causal inference frameworks, and applied GenAI systems across enterprise CRM (Accenture), compliance and document intelligence (ISN), and fintech growth analytics (Intuit). I work at the intersection of advanced analytics, machine learning, and business strategy — translating data science into decisions that clients and senior leaders can act on. AI-native tools: Claude Code and Cursor.
 
-**Currently** — building out a public portfolio and pursuing Claude certification while exploring Senior/Staff Data Scientist roles 
+**Currently** — building out a public portfolio and pursuing relevant Data science/Applied AI public available certifications while exploring Senior/Staff Data Scientist roles 
 
 ---
 

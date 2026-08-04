@@ -17,7 +17,9 @@ Causal Inference · Predictive Modeling · Applied GenAI · LLM Agents
 
 I translate messy funnel, experiment, and unstructured data into decisions leaders can act on — causal inference (A/B testing, difference-in-differences), predictive modeling, NLP, and increasingly, applied GenAI agents that put that analysis in reach of non-technical stakeholders.
 
-**Currently** — building out a public portfolio and pursuing Claude certification while exploring Senior Data Scientist roles (8+ yrs across Intuit, ISN, and Accenture).
+Senior Data Scientist with 8+ years building predictive models, causal inference frameworks, and applied GenAI systems across enterprise CRM (Accenture), compliance and document intelligence (ISN), and fintech growth analytics (Intuit). I work at the intersection of advanced analytics, machine learning, and business strategy — translating data science into decisions that clients and senior leaders can act on. AI-native tools: Claude Code and Cursor.
+
+**Currently** — building out a public portfolio and pursuing Claude certification while exploring Senior/Staff Data Scientist roles 
 
 ---
 

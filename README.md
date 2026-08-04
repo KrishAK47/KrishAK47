@@ -54,14 +54,6 @@ Platforms          → Databricks · AWS · Azure · Tableau · Alteryx
 
 ---
 
-### 📈 GitHub stats
-
-<p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KrishAK47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=39efff&icon_color=a78bfa&text_color=cbd5e1"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishAK47&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=39efff&text_color=cbd5e1"/>
-</p>
-
----
 
 <p align="center">
 <em>"The hardest part isn't the model — it's making the answer causally sound and getting it in front of the right person in time to matter."</em>
